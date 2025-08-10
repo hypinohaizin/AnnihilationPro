@@ -1,9 +1,11 @@
 # AnnihilationPro
-The full source code for the Minecraft plugin AnnihilationPro.
 
-The last official compiled version of the plugin (1.5.5) can be found here:
-https://www.mediafire.com/?eeh190pm52i31r4
+A Minecraft plugin from the old days, now dusted off and given a slightly less painful build setup.  
+I took the ancient, messy Eclipse project files and converted them into a modern IntelliJ + Maven structure.  
+(No more `.classpath` nightmares.)
 
-If you get errors – not my problem. No support will be provided.  
-I’ve prepared the bare minimum environment, so all you need to do is fix the dependencies and it should build… probably.  
+## Disclaimer
+If you run into errors – that’s on you.  
+No support will be provided.  
+The bare minimum environment is already prepared, so just fix the dependencies and it should compile… probably.  
 (It’s easy. Probably.)
